@@ -19,4 +19,11 @@ Analysis of temperature data in Oahu, Hawaii for the months of June and December
 
 ## Summary
 
-Observing the average, high and low temperatures for the months of June and December we can see that both months have average temperatures in the 70-degree range, as well as highs over 80 degrees. Additionally, something to investigate would be how the weather for June and December has been trending over the years, if at all, instead of just aggregating all the weather data for each month over several years. An additional study that observes ice cream sales given the temperature in general would be valuable for this analysis as well. I think it is a fair assumption that ice cream sales wont faulter much if the temperature is above 70, and sales will increase as the temperature gets into the 80 degree plus range. Thus, I believe that with the weather information we have gathered, we can conclude that ice cream sales should be consistent enough for a year-round business to thrive in Oahu.
+Observing the average, high and low temperatures for the months of June and December:
+<p align="center"
+
+![alttext](https://github.com/sd2wiebe/surfs_up/blob/main/june_december_summary.png)
+
+</p>
+
+We can see that both months have average temperatures in the 70-degree range, as well as highs over 80 degrees. Additionally, something to investigate would be how the weather for June and December has been trending over the years, if at all, instead of just aggregating all the weather data for each month over several years. An additional study that observes ice cream sales given the temperature in general would be valuable for this analysis as well. I think it is a fair assumption that ice cream sales wont faulter much if the temperature is above 70, and sales will increase as the temperature gets into the 80 degree plus range. Thus, I believe that with the weather information we have gathered, we can conclude that ice cream sales should be consistent enough for a year-round business to thrive in Oahu.
