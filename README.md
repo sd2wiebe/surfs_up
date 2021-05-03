@@ -4,8 +4,8 @@ The purpose of this analysis is to provide W. Avy more information about tempera
 ## Results:
 Analysis of temperature data in Oahu, Hawaii for the months of June and December (in Fahrenheit):
 ### June
-<il> Average Temperature 74.94 </il>
-<il> High: 85 </il>
+<il> Average Temperature 74.94
+<il> High: 85 
 <il> Low: 64 </il>
 ### December
 <li> Average Temperature: 71 </il>
